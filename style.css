@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 800px;
+}
+.borders{
+    border: 3px solid red;
+    margin: 20px;
+    padding: 10px;
+    
+}
+.title{
+    margin: 20px;
+    padding: 10px;
+    
+}
+.btns{
+    width: 70px;
+}
+.links{
+    width: 70px;
+}
